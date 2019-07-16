@@ -16,7 +16,7 @@ namespace Lesson_4
             }
 
             Console.WriteLine();
-
+            
             // БИНАРНЫЙ ПОИСК
             int Length = 10;
             int[] array = new int[Length];
